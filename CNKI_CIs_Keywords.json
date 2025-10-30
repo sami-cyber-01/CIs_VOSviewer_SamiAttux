@@ -1,0 +1,641 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 13,
+				"label": "《精英汉语》",
+				"x": 0.0807,
+				"y": 0.4108,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 32,
+				"label": "偏误",
+				"x": -0.5165,
+				"y": -0.1436,
+				"cluster": 2,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.7500,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 33,
+				"label": "偏误分析",
+				"x": -1.0215,
+				"y": -0.0094,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 46,
+				"label": "可行性研究",
+				"x": 1.0797,
+				"y": -0.0867,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 52,
+				"label": "圣保罗",
+				"x": 1.3053,
+				"y": -0.1006,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 55,
+				"label": "孔子学院",
+				"x": 0.6064,
+				"y": -0.0148,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.6250,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 56,
+				"label": "学习动机",
+				"x": -0.0027,
+				"y": 0.0303,
+				"cluster": 5,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 57,
+				"label": "学习策略",
+				"x": -0.2387,
+				"y": 0.1246,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.5000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 59,
+				"label": "学院院长",
+				"x": 1.3988,
+				"y": -0.0768,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 63,
+				"label": "对外汉语教学",
+				"x": -0.5512,
+				"y": -0.0393,
+				"cluster": 2,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.1667,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 66,
+				"label": "州立大学",
+				"x": 1.3100,
+				"y": -0.0393,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 68,
+				"label": "巴西",
+				"x": -0.0101,
+				"y": 0.2071,
+				"cluster": 4,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.2500,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 72,
+				"label": "巴西学生",
+				"x": -1.0020,
+				"y": -0.1023,
+				"cluster": 3,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 75,
+				"label": "巴西葡萄牙语",
+				"x": 0.1216,
+				"y": -0.1888,
+				"cluster": 5,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.5000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 78,
+				"label": "建议",
+				"x": -0.5794,
+				"y": -0.2049,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.3333,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 86,
+				"label": "教学建议",
+				"x": -1.1067,
+				"y": -0.0296,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 90,
+				"label": "教学设计",
+				"x": -1.0826,
+				"y": -0.1716,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.5000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 96,
+				"label": "文化传播",
+				"x": 0.8816,
+				"y": -0.0369,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.6667,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 102,
+				"label": "武术课程",
+				"x": 1.0850,
+				"y": -0.0184,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 103,
+				"label": "汉字",
+				"x": -0.3875,
+				"y": 0.1362,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.3333,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 105,
+				"label": "汉字教学",
+				"x": -0.6096,
+				"y": 0.0451,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 107,
+				"label": "汉葡对比",
+				"x": -0.8886,
+				"y": 0.0064,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 108,
+				"label": "汉语",
+				"x": 0.0850,
+				"y": -0.1276,
+				"cluster": 5,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.3333,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 139,
+				"label": "适用性",
+				"x": 0.0429,
+				"y": 0.4299,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 1.0000
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 13,
+				"target_id": 68,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 139,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 63,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 72,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 78,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 105,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 108,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 72,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 86,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 96,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 102,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 66,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 68,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 96,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 108,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 68,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 108,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 57,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 57,
+				"target_id": 68,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 57,
+				"target_id": 103,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 68,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 78,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 105,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 107,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 66,
+				"target_id": 102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 68,
+				"target_id": 103,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 68,
+				"target_id": 108,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 68,
+				"target_id": 139,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 72,
+				"target_id": 86,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 72,
+				"target_id": 90,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 72,
+				"target_id": 105,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 108,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 102,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 105,
+				"strength": 1.0000
+			}
+		]
+	}
+}
