@@ -1,0 +1,608 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 1,
+				"label": "amazon rainforest",
+				"x": -0.9341,
+				"y": 0.0068,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000
+				}
+			},
+			{
+				"id": 2,
+				"label": "brazil",
+				"x": -0.4487,
+				"y": 0.2985,
+				"cluster": 6,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.2500
+				}
+			},
+			{
+				"id": 3,
+				"label": "brazilian learners",
+				"x": 0.0109,
+				"y": 0.5780,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000
+				}
+			},
+			{
+				"id": 4,
+				"label": "brazil–china exchange",
+				"x": 0.4328,
+				"y": -0.3725,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000
+				}
+			},
+			{
+				"id": 5,
+				"label": "china",
+				"x": -0.5768,
+				"y": -0.0092,
+				"cluster": 2,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 19.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.4286
+				}
+			},
+			{
+				"id": 6,
+				"label": "commodification",
+				"x": 1.1601,
+				"y": -0.0918,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000
+				}
+			},
+			{
+				"id": 7,
+				"label": "confucius institute",
+				"x": 0.0652,
+				"y": -0.0302,
+				"cluster": 5,
+				"weights": {
+					"Links": 20.0000,
+					"Total link strength": 34.0000,
+					"Occurrences": 13.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.1538
+				}
+			},
+			{
+				"id": 8,
+				"label": "cultural diplomacy",
+				"x": -0.7783,
+				"y": -0.0002,
+				"cluster": 2,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5000
+				}
+			},
+			{
+				"id": 9,
+				"label": "education",
+				"x": -0.0158,
+				"y": 0.4723,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.5000
+				}
+			},
+			{
+				"id": 10,
+				"label": "expenses",
+				"x": 1.1449,
+				"y": -0.0008,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000
+				}
+			},
+			{
+				"id": 11,
+				"label": "international relations",
+				"x": -0.1923,
+				"y": 0.1403,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.3333
+				}
+			},
+			{
+				"id": 12,
+				"label": "international student mobility",
+				"x": 0.3841,
+				"y": -0.3108,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000
+				}
+			},
+			{
+				"id": 13,
+				"label": "internationalization",
+				"x": -0.9113,
+				"y": -0.0918,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000
+				}
+			},
+			{
+				"id": 14,
+				"label": "macao",
+				"x": -0.3117,
+				"y": 0.5457,
+				"cluster": 6,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000
+				}
+			},
+			{
+				"id": 15,
+				"label": "mandarin",
+				"x": -0.1123,
+				"y": 0.6188,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.3333
+				}
+			},
+			{
+				"id": 16,
+				"label": "profitability",
+				"x": 1.2334,
+				"y": 0.0149,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000
+				}
+			},
+			{
+				"id": 17,
+				"label": "public welfare",
+				"x": 1.2479,
+				"y": -0.0760,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000
+				}
+			},
+			{
+				"id": 18,
+				"label": "science",
+				"x": -0.3788,
+				"y": -0.7346,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000
+				}
+			},
+			{
+				"id": 19,
+				"label": "society",
+				"x": -0.3213,
+				"y": -0.6540,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000
+				}
+			},
+			{
+				"id": 20,
+				"label": "soft power",
+				"x": -0.3879,
+				"y": -0.3103,
+				"cluster": 4,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 17.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.3333
+				}
+			},
+			{
+				"id": 21,
+				"label": "technology",
+				"x": -0.2744,
+				"y": -0.7403,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000
+				}
+			},
+			{
+				"id": 22,
+				"label": "unesp",
+				"x": -0.0356,
+				"y": 0.7472,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 1,
+				"target_id": 5,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 7,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 8,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 13,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 5,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 7,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 8,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 14,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 15,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 20,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 9,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 15,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 7,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 12,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 7,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 8,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 11,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 13,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 20,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 7,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 10,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 16,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 17,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 8,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 9,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 10,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 11,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 12,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 13,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 14,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 15,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 16,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 17,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 18,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 20,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 21,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 13,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 11,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 15,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 16,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 17,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 20,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 15,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 17,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 21,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 21,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 21,
+				"strength": 1.0000
+			}
+		]
+	}
+}
